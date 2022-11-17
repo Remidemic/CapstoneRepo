@@ -13,30 +13,16 @@ function Footer() {
           <div className="col">
             <h4>NFT LAND INC</h4>
             <ul className="list-unstyled">
-              <li>281-330-8004</li>
-              <li>Location: Every Where Near YOU, USA</li>
-              <li>123 Street Around The Corner</li>
+              <li>1-900-GET-PAID</li>
+              <li>1515 Broadway New York, NY</li>
+              <li></li>
             </ul>
           </div>
           {/* // column2 */}
           <div className="col">
-            <h4>Github Links</h4>
+            <h4>Github Link</h4>
             <ul className="list-unstyled">
-              <a
-                href="https://github.com/sunnydreamer"
-                style={{ color: "white" }}
-              >
-                Sunny
-              </a>
-              <br />
-              <a href="https://github.com/sujvem33" style={{ color: "white" }}>
-                Sujitha
-              </a>
-              <br />
-              <a href="https://github.com/Jmccaster" style={{ color: "white" }}>
-                Jibril
-              </a>
-              <br />
+              
               <a href="https://github.com/Remidemic" style={{ color: "white" }}>
                 Remy
               </a>
@@ -44,19 +30,17 @@ function Footer() {
           </div>
           {/* // column3 */}
           <div className="col">
-            <h4>Some More Stuff</h4>
+            <h4>external links</h4>
             <ul className="list-unstyled">
-              <li>Shoes</li>
-              <li>More Shoes</li>
-              <li>A lot of Shoes</li>
+              <a href="https://www.coinbase.com/"><li>Buy RemCoin Here</li></a>
+              <a href="https://opensea.io/"><li>More NFTS</li></a>
             </ul>
           </div>
         </div>
         <hr />
         <div className="row">
           <p className="col-sm">
-            &copy;{new Date().getFullYear()} Shoe Game INC | All Rights Reserved
-            | Terms of Service | Privacy
+            &copy;{new Date().getFullYear()} 
           </p>
         </div>
       </div>

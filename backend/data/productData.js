@@ -1,9 +1,4 @@
 exports.shoeData = [{
-        name: 'RACER',
-        ID: 'Men',
-        image: 'https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9766164412544c8c9e91ae14010d9594_9366/Racer_TR21_Shoes_White_GX4208_05_standard.jpg',
-        price: "53",
-    }, {
         name: 'Listen African Football GIF by CAF',
         price: '10 remcoin',
         image: 'https://media2.giphy.com/media/gRMzUoDOllE67EoFWu/giphy-loop.mp4?cid=080b6053005c380ad89cc80b2c170c2c4c2f1a223779e52f&rid=giphy-loop.mp4&ct=g',
